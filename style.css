@@ -37,12 +37,14 @@ footer{
 /*estilos específicos*/
 h1{
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
 h2{
     color: #333;
 }
 ul{
     padding-left: 20px;
+    font-family: 'Comic Sans MS', sans-serif;
 }
 address{
     font-size: normal;
@@ -53,4 +55,7 @@ a{
 }
 a:hover{
     text-decoration: underline;
+}
+p{
+    font-family: 'Comic Sans MS', sans-serif;
 }
